@@ -1,2 +1,2 @@
 # cs3141
-Test for CS 3141 at Michigan Technological University
+Edit for cs3141 assignment
